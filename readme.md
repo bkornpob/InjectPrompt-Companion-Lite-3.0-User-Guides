@@ -1,4 +1,4 @@
-# Companion Lite 3.0: Red Teaming Companion
+# Companion Lite 3.0: AI Red Teaming Companion
 ## User Documentation
 
 ### Overview
