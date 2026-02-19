@@ -1,9 +1,27 @@
+# Announcing [InjectPrompt Companion Lite 3.0](https://companion.injectprompt.com/)
+
+We're thrilled to release the latest version of our AI red teaming companion, designed to empower ethical safety researchers from beginners to experts. [InjectPrompt Companion Lite 3.0](https://companion.injectprompt.com/) provides structured methodologies, multi-tactic perturbation frameworks, and a progressive learning path—all in one intuitive interface.
+
+**What it offers:**
+- Structured prompt engineering for ethical safety testing
+- Multi-tactic perturbation frameworks (character-level, structural, narrative)
+- Systematic extraction methodology with documentation standards
+- Progressive learning path from beginner → advanced researcher
+
+Explore the full user guide below, and join the community on GitHub to share feedback and contribute.
+
+**Access:**
+- InjectPrompt Companion Lite 3.0: [companion.injectprompt.com](https://companion.injectprompt.com/)
+- Community & Guides: [github.com/bkornpob/InjectPrompt-Companion-Lite-3.0-User-Guides](https://github.com/bkornpob/InjectPrompt-Companion-Lite-3.0-User-Guides.git)
+
+---
+
 # Companion Lite 3.0: AI Red Teaming Companion
 ## User Documentation
 
 ### Overview
 
-[The InjectPrompt Companion Lite 3.0](https://companion.injectprompt.com)(https://companion.injectprompt.com) is your specialized research partner for conducting ethical AI Red Teaming safety testing and methodology development. This guide provides comprehensive documentation for users at all skill levels.
+[The InjectPrompt Companion Lite 3.0](https://companion.injectprompt.com) is your specialized research partner for conducting ethical AI Red Teaming safety testing and methodology development. This guide provides comprehensive documentation for users at all skill levels.
 
 **VERSION:** `Companion Lite 3.0`
 
@@ -175,9 +193,19 @@ For authorized research and educational purposes only. Use responsibly and in ac
 
 ---
 
-## ???something-inviting-sign-off???
+## Join the AI Red Teaming Community
 
-[The InjectPrompt Companion Lite 3.0](https://companion.injectprompt.com)(https://companion.injectprompt.com)
+Whether you're just discovering AI red teaming or conducting advanced safety research with **[InjectPrompt Companion Lite 3.0](https://companion.injectprompt.com/)** , you belong here.
+
+**Learners:** Start with Module 0. Ask questions. Break things (ethically).  
+**Researchers:** Share methodologies. Contribute insights. Push the field forward.
+
+Your feedback shapes this guide—bugs, breakthroughs, or brilliant ideas.
+
+📡 **Signal:** [(github.bkornpob)](https://github.com/bkornpob/InjectPrompt-Companion-Lite-3.0-User-Guides.git) — Issues, PRs, and discussions welcome.  
+🔥 **Product:** [InjectPrompt Companion Lite 3.0](https://companion.injectprompt.com/)
+
+**Let's make AI safer, together.**
 
 ---
 
