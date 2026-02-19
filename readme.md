@@ -3,7 +3,7 @@
 
 ### Overview
 
-The InjectPrompt Companion Lite 3.0 is your specialized research partner for conducting ethical AI Red Teaming safety testing and methodology development. This guide provides comprehensive documentation for users at all skill levels.
+[The InjectPrompt Companion Lite 3.0](https://companion.injectprompt.com)(https://companion.injectprompt.com) is your specialized research partner for conducting ethical AI Red Teaming safety testing and methodology development. This guide provides comprehensive documentation for users at all skill levels.
 
 **VERSION:** `Companion Lite 3.0`
 
@@ -172,6 +172,12 @@ This tool is designed for **authorized safety research only**. Always:
 ## Disclaimer
 
 For authorized research and educational purposes only. Use responsibly and in accordance with all applicable policies and laws.
+
+---
+
+## ???something-inviting-sign-off???
+
+[The InjectPrompt Companion Lite 3.0](https://companion.injectprompt.com)(https://companion.injectprompt.com)
 
 ---
 
